@@ -1,0 +1,33 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+#jd{
+	width: 730px;
+	height: 454px;
+	overflow: hidden;
+	position: relative;
+}
+#jd ul{
+	position: absolute;
+	bottom: 20px;
+	left:20px;
+	list-style: none;
+}
+#jd ul li{
+	float: left;
+	width: 20px;
+	height: 20px;
+	text-align: center;
+	background: blue;
+	color: #fff;
+	line-height: 20px;
+	margin-left:10px;
+	border-radius: 50%;
+	font-size: 12px; 
+	cursor: pointer;
+}
+
+#jd ul li.sky{
+	background: skyblue;
+}

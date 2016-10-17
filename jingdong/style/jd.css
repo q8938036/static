@@ -1,0 +1,210 @@
+/* CSS Document */
+*{
+	margin:0 auto;
+	padding:0;}
+#bod{
+	width:100%;
+	height:4000px;
+	border:2px solid #000;}
+#denglu{
+	width:100%;
+	height:30px;
+	border:1px solid #000;}
+#ad{
+	width:100%;
+	height:80px;
+	border:1px solid #000;}
+#sou{
+	width:100%;
+	height:100px;
+	border:1px solid #000;}
+#dog{
+	width:280px;
+	height:100px;
+	float:left;
+	margin-left:77px;
+	border:1px solid #000;}
+#kuang{
+	width:500px;
+	height:60px;
+	border:1px solid #000;}
+#shop{
+	width:130px;
+	height:35px;
+	float:right;
+	margin-top:-45px;
+	margin-right:145px;
+	border:1px solid #E3E3E3;
+	background:#F9F9F9;}
+#daohang{
+	width:100%;
+	height:52px;
+	border:1px solid #000;}
+#str{
+	width:212px;
+	height:674px;
+	float:left;
+	margin-left:78px;
+	border:1px solid #000;}
+#str table tr td{
+	color:#FFF;
+	text-align:center;}
+#xia{
+	width:212px;
+	height:152px;
+	margin-top:10px;
+	border:1px solid #000;}
+#da{
+	width:1318px;
+	height:627px;
+	border:1px solid #000;}
+#right{
+	width:1006px;
+	height:627px;
+	border:1px solid #000;
+	float:right;}
+#rl{
+	width:730px;
+	height:455px;
+	float:left;
+	margin:10px;
+	border:1px solid #000;}
+#rr{
+	width:250px;
+	height:455px;
+	float:right;
+	margin-top:10px;
+	border:1px solid #000;}
+#buttom{
+	width:1006px;
+	height:152px;
+	float:left;
+	border:1px solid #000;}
+#cai{
+	height:273px;
+	width:1220px;
+	margin-top:15px;
+	border:1px solid #000;}
+#biao{
+	height:40px;
+	width:1215px;
+	border:1px solid #000;}
+#tu{
+	height:231px;
+	width:1215px;
+	border:1px solid #000;}
+#middle{
+	height:442px;
+	width:1224px;
+	margin-top:15px;
+	border:1px solid #000;}
+#zuo{
+	height:32px;
+	width:142px;
+	float:left;
+	border:1px solid #000;}
+#xia1{
+	height:408px;
+	width:1224px;
+	float:left;
+	border:1px solid #000;}
+#xia11{
+	height:408px;
+	width:407px;
+	float:left;
+	border:1px solid #000;}
+#xia12{
+	height:408px;
+	width:812px;
+	float:left;
+	border:1px solid #000;}
+#xia121{
+	width:229px;
+	height:408px;
+	float:left;
+	border:1px solid #000;}
+#xia122{
+	width:405px;
+	height:408px;
+	float:left;
+	border:1px solid #000;}
+#xia123{
+	width:172px;
+	height:408px;
+	float:right;
+	border:1px solid #000;}
+#ad1{
+	width:1202px;
+	height:111px;
+	margin-top:15px;
+	border:1px solid #000;}
+#middle1{
+	width:1224px;
+	height:676px;
+	margin-top:15px;
+	border:1px solid #000;}
+#middh{
+	width:1224px;
+	height:37px;
+	border:1px solid #000;}
+#midxia{
+	width:1224px;
+	height:637px;
+	border:1px solid #000;}
+#midxia_left{
+	width:331px;
+	height:637px;
+	float:left;
+	border:1px solid #000;}
+#midxia_left1{
+	width:331px;
+	height:346px;
+	border:1px solid #000;}
+#midxia_left2{
+	width:331px;
+	height:129px;
+	border:1px solid #000;}
+#midxia_right{
+	width:441px;
+	height:637px;
+	float:left;
+	border:1px solid #000;}
+#ad2{
+	width:1220px;
+	height:69px;
+	margin-top:15px;
+	border:1px solid #000;}
+#middle2{
+	width:1224px;
+	height:514px;
+	margin-top:15px;
+	border:1px solid #000;}
+#xia2{
+	height:475px;
+	width:1224px;
+	border:1px solid #000;}
+#xia_left{
+	height:475px;
+	width:212px;
+	float:left;
+	border:1px solid #000;}
+#ad3{
+	width:1220px;
+	height:112px;
+	margin-top:15px;
+	border:1px solid #000;}
+#xia_left1{
+	height:475px;
+	width:331px;
+	float:left;
+	border:1px solid #000;}
+#xia_right1{
+	height:475px;
+	width:881px;
+	float:left;
+	border:1px solid #000;}
+#middle3{
+	width:1224px;
+	height:514px;
+	margin-top:15px;
+	border:1px solid #000;}
